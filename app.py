@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-st.set_page_config(page_title="GGV vs. Mieterstrom – Szenariorechner", layout="wide")
+st.set_page_config(page_title="Qrauts AG GGV vs. Mieterstrom – Szenariorechner", layout="wide")
 
 # -----------------------------
 # Helper functions
